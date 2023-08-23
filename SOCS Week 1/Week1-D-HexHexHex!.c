@@ -22,12 +22,9 @@
 #include <stdio.h>
 
 int main(){
-
 	short num ;
-	scanf("%hd", &num);
-	
+	scanf("%hd", &num);	
 	printf("%x", num);
-
+	
 	return 0;
-
 }
