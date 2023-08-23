@@ -23,12 +23,8 @@
 #include<stdio.h>
 
 int main(){
-
 	short age;
 	scanf("%hd", &age);
-
 	printf("Selamat ulang tahun yang ke %d yaaa!\n", age);
-
 	return 0;
-
 }
