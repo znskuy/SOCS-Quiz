@@ -30,11 +30,9 @@
 */
 
 #include<stdio.h>
-
 #define gc while(getchar()!='\n'); 
 
 int main(){
-
     char NIM[11];
     char name[101];
     char class;
@@ -50,5 +48,4 @@ int main(){
     printf("%c %hd", class, num);
     
     return 0;
-
 }
