@@ -24,7 +24,6 @@
 #include <stdio.h>
 
 int main(){
-
 	char a[20], b[20], c[20];
 	char d[20], e[20], f[20];
 
@@ -35,5 +34,4 @@ int main(){
  	printf("%sszs %sszs %sszs\n", d, e, f);
 
 	return 0;
-
 }
